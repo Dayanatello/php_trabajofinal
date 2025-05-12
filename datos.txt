@@ -1,0 +1,1 @@
+a:3:{i:0;a:2:{s:6:"nombre";s:12:"Dayana tello";s:6:"correo";s:25:"tellolaurente@hotmail.com";}i:1;a:2:{s:6:"nombre";s:4:"jose";s:6:"correo";s:14:"jose@gmail.com";}i:2;a:2:{s:6:"nombre";s:6:"manuel";s:6:"correo";s:16:"manuel@gmail.com";}}
