@@ -37,7 +37,7 @@ if (isset($_GET['action']) && isset($_GET['id'])) {
     if ($action == 'edit' && isset($registros[$id])) {
         $nombre = $registros[$id]['nombre'];
         $correo = $registros[$id]['correo'];
-        // Aquí puedes agregar el código para editar si lo deseas
+        
     }
 
     if ($action == 'delete' && isset($registros[$id])) {
